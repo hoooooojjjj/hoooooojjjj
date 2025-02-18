@@ -15,7 +15,9 @@
   <a href="mailto:rhj080471@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://blog.naver.com/so_no7"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://cdn-1.webcatalog.io/catalog/naver-blog/naver-blog-icon.png?v=1714775230387"/></a>                       
+  <a href="https://blog.naver.com/your_blog_id">
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
 </div>
 
 ## Skills

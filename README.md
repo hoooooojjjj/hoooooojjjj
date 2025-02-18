@@ -4,9 +4,10 @@
 
 ## Stats
 
-| Top Languages | GitHub Stats |
-|--------------|-------------|
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoooooojjjj&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoooooojjjj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoooooojjjj&layout=compact" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoooooojjjj&show_icons=true&theme=radical" width="400px">
+</div>
 
 ## Contact
 

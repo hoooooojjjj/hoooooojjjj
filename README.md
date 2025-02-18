@@ -15,7 +15,7 @@
   <a href="mailto:rhj080471@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://blog.naver.com/your_blog_id">
+  <a href="https://blog.naver.com/so_no7">
     <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </div>

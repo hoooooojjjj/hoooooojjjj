@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+developer.)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=생산성을 +높여+함께+성장하는+개발자+sono)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&text=생산성을+높여+함께+성장하는+개발자+sono)
 
-<div style="display:flex; justify-content:center;">
-<div>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoooooojjjj)](https://github.com/anuraghazra/github-readme-stats)</div>
+## Stats
 
-<div>[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoooooojjjj)](https://github.com/anuraghazra/github-readme-stats)</div>
-</div>
+| Top Languages | GitHub Stats |
+|--------------|-------------|
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoooooojjjj&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoooooojjjj&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## Contact
 

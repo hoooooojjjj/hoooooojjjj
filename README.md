@@ -15,14 +15,14 @@
   <a href="mailto:rhj080471@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://blog.naver.com/your_blog_id">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Naver_Logotype.svg/512px-Naver_Logotype.svg.png" width="120px" height="40px" />
+  <a href="https://blog.naver.com/so_no7">
+    <img src="https://cdn-1.webcatalog.io/catalog/naver-blog/naver-blog-icon.png?v=1714775230387" width="120px" height="40px" />
   </a>
 </div>
 
 ## Skills
 
-<div align="center">
+<div align="start">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">

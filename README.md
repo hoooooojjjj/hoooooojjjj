@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+sono.)](https://git.io/typing-svg)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&fontSize=30&text=Boosting+Productivity,+Growing+Together)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&fontSize=30&text=Boosting+Productivity,+Growing+Together)
 
 ## Stats
 
